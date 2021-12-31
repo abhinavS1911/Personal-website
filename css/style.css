@@ -5,6 +5,16 @@
   line-height: 2;
 }
 
+.boy-link{
+  position: absolute;
+  top: 50px;
+  left: 150px;
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border-radius: 50px;
+}
+
 .mountain{
   position: relative;
 }
