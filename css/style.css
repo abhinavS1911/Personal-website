@@ -5,11 +5,11 @@
   line-height: 2;
 }
 
-.boy-link{
+.boy-image{
   position: absolute;
   top: 50px;
   left: 150px;
-  width: 10px;
+  width: 80px;
   height: 80px;
   background-color: white;
   border-radius: 50px;
